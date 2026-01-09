@@ -1,2 +1,3 @@
-Test!
+print("test!")
+test
 test
